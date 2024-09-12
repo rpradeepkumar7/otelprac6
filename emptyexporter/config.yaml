@@ -1,0 +1,3 @@
+exporter:
+  type: prometheus
+  endpoint: "localhost:9090"
